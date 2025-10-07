@@ -1,52 +1,42 @@
-### Hello World 👋 It's [Saket!](https://sakigo9.github.io/MyPortfolio/)
+### Hello World 👋 It's [Harsh!](www.linkedin.com/in/harshpathak009)
 
 <br/>
 
 
-<a href="https://twitter.com/sakigo_09">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+<a href="https://twitter.com/haarsh09">
+<img align="left" alt="Harsh Pathak | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
-<a href="https://www.linkedin.com/in/saket-prag-31b972157/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+<a href="www.linkedin.com/in/harshpathak09">
+<img align="left" alt="Harsh Pathak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
 </a>
-<a href="https://medium.com/@saketprag322">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/medium.svg" />
+<a href="https://www.instagram.com/haarsh_09/">
+<img align="left" alt="Harsh Pathak" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
-<a href="https://www.instagram.com/sakigo_09/">
-<img align="left" alt="Saket Prag" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
-</a>
-<a href="https://www.youtube.com/watch?v=eXlaZbQ0TiY&t=3s">
-<img align="left" alt="Saket Prag | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+<a href = "https://scholar.google.com/citations?user=qEtpSG0AAAAJ&hl=en">
+  <img align = "left" alt = "Harsh Pathak" width = "22px" src = "https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlescholar.svg" />
 </a>
 <br />
 
 <br />
 
-Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. Apart from that I love getting involved in Competitive Programming and Problem Solving.❤✌
+Hi,I'm Harsh Pathak🙌, a Machine Learning Engineer and Researcher and I am curious about Deep learning, Reinforcement learning, Physics and Math. Apart from that I love getting involved in Competitive Programming and Problem Solving. I also love music. It helps me think.❤✌
 
 
-<img align="right" alt="GIF" src="https://media.giphy.com/media/USV0ym3bVWQJJmNu3N/giphy.gif" />
+<img align="right" alt="GIF" src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExMmwzYW9uMGNiMHpxNThiZmNwODYwdXMweGwzcTVtdWRqeGF6MHVmcyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/zPbnEgxsPJOJSD3qfr/giphy.gif" />
 
 
 **Talking about Personal Stuffs:**
 
-- 🔭 I’m currently Intern at CodeCrunch.
-- 🌱 I’m currently learning Angular.
+- 🔭 I worked at University Living as an ML Engineer. Currently looking for research roles that challenges me.
+- 🌱 I’m currently involved in research projects in Deep learning and learning Reinforcement learning.
 - 👯 Part of Developer Community.
 - 💬 Ask me about anything , Would love to answer them.✌
 - 📫 How to reach me: Any of the Social-Media Platform 
-- ⚡ Check out my recent [Blogs](https://medium.com/@saketprag322)
 - 📝[Portfolio](https://sakigo9.github.io/MyPortfolio/)
-- ✨ I can draw too.[ArtGallery](https://www.instagram.com/finding_my.way/)
+- Open to working on new research ideas in Deep learning, Reinforcement learning and Math, feel free to reach out at harsh.pathak8743@gmail.com.
 
 
 
-**Community**
-- Google Developer Group Bengaluru
-- HackClub NMIT
-- Tensorflow Community Bengaluru
-- Girlscript Foundation
-- Coding Ninja
 
 **Languages and Tools:**
 
@@ -56,5 +46,9 @@ Hi,I'm Saket Prag🙌, a Web Developer, Chatbot Developer and Cloud Enthusiast. 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tensorflow/tensorflow.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/pytorch/pytorch.png"></code>
 
-![Sakigo's github stats](https://github-readme-stats.vercel.app/api?username=sakigo9&show_icons=true&hide_border=true)
+
+
+![Harsh's github stats](https://github-readme-stats.vercel.app/api?username=haarsh09&show_icons=true&hide_border=true)

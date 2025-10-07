@@ -79,5 +79,5 @@ I love competitive programming, problem solving, and music (it helps me think! â
 
 <!-- Giphy for extra research vibes! -->
 <p align="center">
-  <img src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif" width="300" alt="Research Giphy"/>
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTRxb3ZxZ2UyNnE1eTN0aDdncncxM3lnbzJtd3M5ODJyNXNsejloYSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/n3HzrBo2TxjkQ/giphy.gif" width="300" alt="Research Giphy"/>
 </p>
